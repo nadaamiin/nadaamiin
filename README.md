@@ -8,7 +8,7 @@
 
 ## 🚀 Skills & Technologies
 
-- 🐍 Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- 🐍 Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly)
 - 📊 Data Visualization & Analysis
 - 📂 Data Cleaning & Preprocessing
 - 🧠 Machine Learning (Supervised & Unsupervised)
