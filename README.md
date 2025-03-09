@@ -20,8 +20,8 @@
 ## 📫 Connect with Me
 
 - 📧 Email: nadaamiin00@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/nada-amin-a9648928b)
-- 🏗️ [Portfolio (if you have one)]([https://yourportfolio.com](https://nadaamin.my.canva.site/portofolio))
+- 🔗 [LinkedIn] (www.linkedin.com/in/nada-amin-a9648928b)
+- 🏗️ [Portfolio ([https://yourportfolio.com](https://nadaamin.my.canva.site/portofolio)])
 
 ---
 
